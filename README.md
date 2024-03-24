@@ -1,10 +1,10 @@
 # Gerenciamento de Estudantes
 
-Este é um projeto simples de gerenciamento de estudantes em Java.
+Este é um projeto simples de gerenciamento de estudantes em Java, para exemplificar uso do HashMap.
 
 ## Descrição
 
-O projeto consiste em um programa Java que permite ao usuário cadastrar, exibir, alterar e excluir alunos de um sistema de gerenciamento de estudantes.
+O projeto consiste em um programa Java que permite ao usuário cadastrar, exibir, alterar e excluir alunos de um sistema de gerenciamento de estudantes com uso do HashMap.
 
 ## Funcionalidades
 
